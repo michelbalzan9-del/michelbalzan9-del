@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Michel Balzan! 👋
+# Olá, eu sou Michel Balzan da Veiga! 👋
 
 **Estudante de Ciência da Computação | Universidade Atitus**
 
